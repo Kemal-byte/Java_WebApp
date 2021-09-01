@@ -1,4 +1,4 @@
-##1. Intro
+## 1. Intro
 
 In this repository, I have attempted to create 
 a web application that register users and logged in them.
