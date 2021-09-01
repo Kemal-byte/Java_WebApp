@@ -1,7 +1,7 @@
 ## 1. Intro
 
-In this repository, I have attempted to create 
-a web application that register users and logged in them.
+In this repository, I have attempted to create a web application that register users and login them. It took more time than I would like to admit but I am happy with the results.
+
 
 Main pages are Registration, Login and Homepage.
 It is still not complete yet but so far it can add users into 
