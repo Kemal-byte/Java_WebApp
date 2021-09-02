@@ -51,6 +51,6 @@ public class RegisterServlet extends HttpServlet {
             System.out.println("Created a database and store the values in it.");
         }
         System.out.println("Post request has been made by registration form.");
-        getServletContext().getRequestDispatcher("/Login.jsp").forward(request, response);
+        getServletContext().getRequestDispatcher("/LoginV2.html").forward(request, response);
     }
 }
