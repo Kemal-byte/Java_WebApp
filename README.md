@@ -12,9 +12,6 @@ Next step will be implementing login page.
 Additionally, I might add some features like;
 + 2 steps verification via (Email, Google Authentication etc.)
 + Custom error pages.
-+ Sending automatic Emails
-+ Changing passwords
-
 
 <br>
 <b>
